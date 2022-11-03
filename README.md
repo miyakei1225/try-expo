@@ -73,7 +73,8 @@ export default function App() {
 }
 ```
 https://docs.nativebase.io/setup-provider
-以上でセットアップの完了です！お疲れ様でした！
+
+以上でセットアップの完了です！お疲れ様でした！👏
 
 native-baseのコンポーネントがまとめられている「kitchen sink」も是非webから触って見てください！
 https://docs.nativebase.io/kitchen-sink 
