@@ -1,4 +1,4 @@
-# try-expo
+# try-expo📱
 React Native勉強会用のレポジトリです！
 
 # 構築手順
