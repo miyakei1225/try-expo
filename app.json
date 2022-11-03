@@ -4,11 +4,11 @@
     "slug": "study-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/jiro_meguro.jpeg",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/jiro_meguro.jpeg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
