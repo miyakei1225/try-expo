@@ -12,6 +12,11 @@ yarnの場合
 yarn global add expo-cli
 ```
 
+もしnode.jsのバージョンが原因でexpoがインストール出来ない場合、nvmを用いて
+node.jsのバージョンを変更すると解消される場合があります！
+
+https://qiita.com/wynk3636/items/f8d762da2f64ad3c4378
+
 2.プロジェクトの作成(※project-nameの部分は任意の名前になります。)
 ```
 expo init project-name
